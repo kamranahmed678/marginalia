@@ -19,7 +19,7 @@ gcloud run deploy marginalia \
   --source . \
   --region us-central1 \
   --allow-unauthenticated \
-  --memory 4Gi \
+  --memory 2Gi \
   --cpu 2 \
   --timeout 300
 ```
@@ -31,8 +31,8 @@ gcloud run deploy marginalia \
 ---
 
 ## Notes
-- **Memory:** `4Gi` — Flan-T5-base + torch needs headroom when loading. If a deploy
-  ever OOMs on startup, it's already at a comfortable size; don't drop below `2Gi`.
+- **Memory:** `2Gi` — the container uses ~630 MB with the model loaded, so this is
+  comfortable. If a deploy ever OOMs on startup, bump to `4Gi`.
 - **Cold start:** scale-to-zero means the first hit wakes the container and loads
   the model (~30–50 s). A background warmup starts as soon as the container boots,
   so if the page has been open a moment, the first question is usually quick.

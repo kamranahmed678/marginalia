@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+torch==2.2.2
+transformers==4.44.2
+sentence-transformers==3.0.1
+sentencepiece
+pypdf
+numpy<2

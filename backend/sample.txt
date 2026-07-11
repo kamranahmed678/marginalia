@@ -1,0 +1,51 @@
+Northwind Labs — Team Handbook (2025 edition)
+
+About Northwind Labs
+Northwind Labs is a remote-first product studio founded in 2019, headquartered in
+Lisbon with team members across 14 countries. We build data tools for the
+renewable-energy industry. The company is organised into four squads: Platform,
+Insights, Growth, and Reliability. Each squad is fully cross-functional and owns
+its work end to end.
+
+Working hours and remote work
+We do not track hours. Team members are trusted to manage their own time and are
+expected to overlap at least four hours per day with the CET timezone so that
+squads can collaborate. There is no return-to-office requirement — Northwind is
+permanently remote. Anyone may work from a co-working space and expense up to 200
+euros per month toward it.
+
+Time off
+Every full-time employee receives 28 days of paid vacation per year, in addition
+to their local public holidays. Vacation does not roll over past March 31 of the
+following year. There is a separate, uncapped sick-leave policy: if you are unwell,
+you rest, and no doctor's note is required for absences shorter than five days.
+New parents receive 16 weeks of fully paid parental leave, which can be taken any
+time within the first year after a child arrives.
+
+Equipment and expenses
+New joiners get a 1,500-euro budget to set up their home office, plus a company
+laptop. Software subscriptions needed for your work are reimbursed without prior
+approval up to 40 euros per month; anything above that needs a quick sign-off from
+your squad lead. Expenses are submitted through the Fern portal and are paid out on
+the 25th of each month.
+
+Security basics
+Two-factor authentication is mandatory on every work account. Passwords are managed
+exclusively through the company password manager; sharing passwords over chat or
+email is prohibited. Company laptops must have full-disk encryption enabled, which
+IT verifies during onboarding. If a device is lost or stolen, report it to the
+Reliability squad within 24 hours so it can be remotely wiped.
+
+How we make decisions
+Northwind uses a lightweight written-proposal process called a "Brief." Anyone can
+write a Brief to propose a change. A Brief needs one sponsor from the affected
+squad and a 48-hour comment window before it can be adopted. Decisions are
+reversible by default; we prefer to try things and learn rather than debate at
+length. Major, hard-to-reverse decisions instead require sign-off from two squad
+leads and the founder.
+
+Career growth
+Every team member has a growth budget of 1,000 euros per year for courses,
+conferences, or books. Formal performance reviews happen twice a year, in June and
+December. Promotions are not tied to the review calendar — a squad lead can propose
+a promotion at any time through a Brief.

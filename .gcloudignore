@@ -1,0 +1,8 @@
+# keep the source upload to Cloud Build small. Models are downloaded during the
+# Docker build (not stored in the repo), so there's nothing large to include.
+.git
+node_modules
+frontend/node_modules
+frontend/dist
+**/__pycache__
+*.pyc
